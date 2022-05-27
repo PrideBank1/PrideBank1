@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**PrideBank1/PrideBank1**
-
 - 🔭 I’m currently working on creating an app that will allow a Visa Card to attach to multiple blockchains, with multiple cryptocurrencys and multiple accounts at once.
 - 🌱 I’m currently learning how to code period. Never coded till now.
 - 👯 I’m looking to collaborate on everything.
